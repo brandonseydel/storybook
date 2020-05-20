@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "global": "^4.3.2",
-    "preact": "^8.4.2"
+    "preact": "^10.4.4"
   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
